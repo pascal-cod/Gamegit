@@ -10,9 +10,11 @@
 <body>
     <div class="container">
 
-    <h1 class="alert alert secondary text-center mt-4">Gamegit</h1>
-    <h2 class="alert alert secondary text-center mt-4">Le site des git</h2>
+    <h1 class="alert alert-secondary text-center mt-4">Gamegit</h1>
+    <h2 class="alert alert-secondary text-center mt-4">Le site des git</h2>
 
+
+    <h1 class="alert alert-warning text-center mt-4">C'est ma branche ! </h1>
     </div>
 </body>
 </html>
