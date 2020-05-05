@@ -13,6 +13,11 @@
     <h1 class="alert alert secondary text-center mt-4">Gamegit</h1>
     <h2 class="alert alert secondary text-center mt-4">Le site des git</h2>
 
+
+    <p>Testons ensemble mes freres git</p>
+    <p>Testons ensemble mes freres git</p>
+    <p>Testons ensemble mes freres git</p>
+
     </div>
 </body>
 </html>
